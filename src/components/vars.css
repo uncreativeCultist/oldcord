@@ -118,9 +118,9 @@
 }
 body {
 	/*--text-muted: #72767d;*/
-	--font-primary: "GG Sans", Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif;
-	--font-display: "GG Sans", Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif !important;
-	--font-headline: "GG Sans", Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	--font-primary: "gg sans", Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	--font-display: "gg sans", Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+	--font-headline: "gg sans", Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif;
 	--blurple: var(--brand-experiment);
 	--blurple-hover: hsl(227, calc(var(--saturation-factor, 1) * 44%), 59%);
 	--blurple-active: hsl(226, calc(var(--saturation-factor, 1) * 34%), 52%);
