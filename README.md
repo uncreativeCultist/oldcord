@@ -1,8 +1,6 @@
 # OldCord
 
-A theme for Discord that brings back the 2020 UI without removing features
-
-###### Completely removes profile effects, profile colors, avatar decos, and banners (revertable, see Addons)
+Discord theme that tries its best to restore the pre-visual refresh UI (based off [Oldcord](https://github.com/milbits/oldcord), which tries its best to restore the 2020 Discord UI) 
 
 ![Preview](https://raw.githubusercontent.com/milbits/oldcord/master/.github/preview.webp)
 
@@ -10,7 +8,7 @@ A theme for Discord that brings back the 2020 UI without removing features
 
 <img src=https://raw.githubusercontent.com/milbits/oldcord/master/.github/previewLight.webp>
 
-Light theme is an afterthought, but its generally very usable
+Light theme is an afterthought, but its probably usable
 
 </details>
 
@@ -24,7 +22,6 @@ These are usually included in oldcord.theme.css, so all you need to do is remove
 | ---------------------- | ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
 | Old Plead Emoji        | ![Image](https://raw.githubusercontent.com/milbits/oldcord/master/.github/emojis.webp)     | `@import url("https://milbits.github.io/oldcord/src/components/oldEmojis.css");`   |
 | Context Menu hover bg. | <img src=https://raw.githubusercontent.com/milbits/oldcord/master/.github/oldcontext.webp> | `@import url("https://milbits.github.io/oldcord/src/components/oldContext.css");`  |
-| Show Profile Cosmetics (Light theme not supported for now) | ![Image](https://raw.githubusercontent.com/milbits/oldcord/master/.github/showeffects.webp)                                                           | `@import url("https://milbits.github.io/oldcord/src/components/showEffects.css");` |
 
 If you use custom/quickcss, paste the CSS at the very top!
 
@@ -43,39 +40,20 @@ If you use custom/quickcss, paste the CSS at the very top!
 
 </details>
 
-#### Enable "Sync Profile Themes" in `Settings > Accessibility` to fix broken profile colors!
-
 # Installation
-
-## [BetterDiscord](https://betterdiscord.app/)
-
-1. Download [OldCord.theme.css](https://raw.githubusercontent.com/milbits/oldcord/main/OldCord.theme.css) (right-click > "Save As")
-2. Save the file to the BetterDiscord theme folder:
-
-- Windows: `%appdata%/BetterDiscord/themes`
-- Linux: `~/.config/BetterDiscord/themes`
 
 ## [Vencord](https://github.com/Vendicated/Vencord)
 
-#### Local method
-
-1. Download [OldCord.theme.css](https://raw.githubusercontent.com/milbits/oldcord/main/OldCord.theme.css) (right-click > "Save As")
-2. Move the file to the Vencord theme folder:
-
-- `Settings > Themes > Open theme folder`
-
-#### Online method
-
 Paste the following in `Settings > Themes`:
 
-- `https://milbits.github.io/oldcord/src/main.css`
+- `https://raw.githubusercontent.com/uncreativeCultist/oldcord/refs/heads/main/OldCord.theme.css`
 
 ## Other
 
 1. Paste the following at **the top** of the CSS file/window:
 
 ```css
-@import url("https://milbits.github.io/oldcord/src/main.css");
+@import url("https://raw.githubusercontent.com/uncreativeCultist/oldcord/refs/heads/main/src/main.css");
 ```
 ----
 
