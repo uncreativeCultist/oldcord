@@ -1,9 +1,9 @@
 .theme-dark:not(html.custom-theme-background, :has(#clientThemeVars)) {
 	--background-base-low: var(--background-primary);
-	--background-base-lower: var(--background-primary);
-	--background-base-lowest: var(--background-secondary);
+	/*--background-base-lower: var(--background-primary);
+	--background-base-lowest: var(--background-secondary);*/
 	--bg-base-tertiary: var(--background-tertiary);
-	--custom-channel-members-bg: var(--background-secondary);
+	/*--custom-channel-members-bg: var(--background-secondary);*/
 	--background-mod-subtle: var(--background-modifier-hover);
 	--bg-brand: var(--blurple);
 	--modal-footer-background: color-mix(in oklab, var(--primary-630) 100%, var(--theme-base-color, #000) var(--theme-base-color-amount, 0%));
@@ -210,7 +210,7 @@
 	.lookLink__201d5.colorPrimary__201d5 {
 		color: var(--text-normal);
 	}
-	/* Emojis/GIF Picker */
+	/* Emojis/GIF Picker
 	.drawerSizingWrapper__08434 {
 		right: 0px !important;
 	}
@@ -225,6 +225,7 @@
 	    box-shadow: var(--shadow-ledge);
 		border-bottom: unset;
 	}
+	
 	.emojiPicker_c0e32c {
 		background-color: var(--background-secondary);
 		box-shadow: var(--shadow-border), var(--shadow-high);
@@ -781,7 +782,7 @@
 		}
 		.buttons__74017 {
 		    margin-right: -6px !important;
-			gap: unset;
+			gap: unset
 		}
 		.button__74017 {
 		    padding: 4px;
