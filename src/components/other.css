@@ -1685,7 +1685,7 @@ h2.title_b717a1, .modalHeader_db81c6 :is([data-text-variant="heading-lg/semibold
 }
 
 
-/* "My Account" settings panel */
+/* "My Account" settings panel 
 .accountProfileCard__1fed1 {
     .userInfo__1fed1 > div:nth-of-type(1) {
         width: 92px !important;
@@ -1705,7 +1705,7 @@ h2.title_b717a1, .modalHeader_db81c6 :is([data-text-variant="heading-lg/semibold
         margin-left: 100px;
         margin-top: -50px;
     }
-}
+}*/
 /* new experimental image viewer - this sucks, don't use it
 
 .carouselModal_d3a6f0 {
