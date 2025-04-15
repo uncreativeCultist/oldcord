@@ -1,0 +1,13 @@
+/*remove the weird space between time and pronouns*/
+
+.timestampInline_c19a55 time {
+  position: relative;
+  font-size: 0 !important;
+  color: transparent !important;
+}
+
+.timestampInline_c19a55 time::before {
+  content: attr(aria-label);
+  font-size: 0.75rem;
+  color: var(--chat-text-muted);
+}
