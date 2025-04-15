@@ -745,10 +745,10 @@
 	/* chat box */
 	.scrollerSpacer__36d07 {
 		height: 30px;
-	}
+	/*}
 	.themedBackground__74017 {
 		background: var(--bg-overlay-3, var(--channeltextarea-background));
-	}
+	}*/
 	.formWithLoadedChatInput_f75fb0 {
 	    padding-left: 16px !important;
 	    padding-right: 16px !important;
