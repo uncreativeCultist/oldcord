@@ -312,7 +312,7 @@
 }
 
 /*! Reactions*/
-/*selectors for forums and normal messages*/
+/*selectors for forums and normal messages
 @keyframes reactionAnim {
 	0% {
 		transform: scale(0);
@@ -388,7 +388,7 @@
 	font-weight: 500;
 	color: var(--text-muted);
 }
-
+*/
 /** Select Menus*/
 .select__3f413,
 .copyInput_fffc15 {

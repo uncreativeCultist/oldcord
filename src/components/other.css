@@ -112,7 +112,7 @@ code {
     color: var(--blurple);
 }
 
-/** revert reactions modal*/
+/** revert reactions modal
 .theme-dark .reactionSelected_cc2dff {
     background-color: rgba(79, 84, 92, 0.3);
     border-radius: 2px;
@@ -132,6 +132,7 @@ code {
 [class^="reaction"] .text-sm-bold_ad6d44 {
     font-weight: 500 !important;
 }
+*/
 
 /** revert switches*/
 .container__87bf1 .input__87bf1 {
