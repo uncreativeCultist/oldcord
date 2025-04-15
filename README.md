@@ -1,6 +1,6 @@
-# OldCord
+# OldCord2025
 
-Discord theme that tries its best to restore the pre-[visual refresh](https://discord.com/blog/player-release-q12025) UI (based off [Oldcord](https://github.com/milbits/oldcord), which tries its best to restore the 2020 Discord UI) 
+OldCord2025 is a Discord theme that tries its best to restore the pre-[visual refresh](https://discord.com/blog/player-release-q12025) UI (based off [Oldcord](https://github.com/milbits/oldcord), which tries its best to restore the 2020 Discord UI) 
 
 ![Preview](https://raw.githubusercontent.com/milbits/oldcord/master/.github/preview.webp)
 
